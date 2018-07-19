@@ -45,6 +45,8 @@
     
         * /api/profile
             * GET
+            
+        */auth/callback
     * auth
         * auth0
 
@@ -53,7 +55,7 @@
             * index
             * controller
 
-## Database
+## ~~Database~~
 * DATABASE - Ivory
     * Tables
         * users
@@ -68,14 +70,14 @@
 
     * Files
         * /db
-            * init.sql
-            * get_words.sql
-            * create_word.sql
-            * create_profile.sql
-            * read_profile.sql
+            * ~~init.sql~~
+            * ~~get_words.sql~~
+            * ~~create_word.sql~~
+            * ~~create_profile.sql~~
+            * ~~read_profile.sql~~
 
 
-## NPM Packages
+## ~~NPM Packages~~
     * axios
     * massive
     * body-parser
@@ -102,3 +104,8 @@
     * DevTools
     * Network Tab
 
+## Words
+
+* ephemeral
+* luminiscence
+* 
