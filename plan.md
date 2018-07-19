@@ -54,16 +54,17 @@
             * controller
 
 ## Database
+* DATABASE - Ivory
     * Tables
         * users
-            * id
-            * auth0-id
-            * name
-            * picture_url
-            * email
+           * ~~id~~
+           * ~~auth0-id~~
+           * ~~name~~
+           * ~~picture_url~~
+           * ~~email~~
         * words
-            * id
-            * text
+            * ~~id~~
+            * ~~text~~
 
     * Files
         * /db
@@ -100,3 +101,4 @@
 * Chrome
     * DevTools
     * Network Tab
+
