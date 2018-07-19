@@ -1,7 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import './Navigation.css';
 
-const Navigation = () => {
+export default function Header() {
     return (
     <div className="navigation">
         <Link to="/">Home</Link>
@@ -13,4 +14,3 @@ const Navigation = () => {
     );
 };
 
-export default Navigation

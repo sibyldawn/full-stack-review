@@ -1,5 +1,5 @@
-module.exports = {
-    createWord: (req,res)=>{
-        const { } 
-    }
-}
+// module.exports = {
+//     createWord: (req,res)=>{
+//         const { } 
+//     }
+// }

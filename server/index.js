@@ -20,9 +20,9 @@ app.use(session({
     resave: false
 }))
 
-app.get('/api/words', c.readWords);
-app.post('/api/words', c.createWord);
-app.get('/api/profile', c.readUser);
+// app.get('/api/words', c.readWords);
+// app.post('/api/words', c.createWord);
+// app.get('/api/profile', c.readUser);
 
 
 
