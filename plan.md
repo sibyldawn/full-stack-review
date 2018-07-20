@@ -10,30 +10,30 @@
         * Landing Page
         * List Words
     * Components
-        * Header
+        * ~~Header~~
         * Button
-        * Navigation
+        * ~~Navigation~~
         * Input
         * Footer
             * Copyright
             * Careers
     * Redux
-        * store
-        * reducer
-            * initialState
-                * user
+        * ~~store~~
+        * ~~reducer~~
+            * ~~initialState~~
+                * ~~user~~
 
-            * reducer function
-            * action creators
-                * login
-                * logout
-            * action type names as constants
+            * ~~reducer function~~
+            * ~~action creators~~
+                * ~~login~~
+                * ~~logout~~
+            * ~~action type names as constants~~
 
     * Routes
-        * BrowserRouter
-            * /
-            * /profile
-            * /words
+        * ~~BrowserRouter~~
+            * ~~/~~
+            * ~~/profile~~
+            * ~~/words~~
 
 ## Back-end
     * Middleware
